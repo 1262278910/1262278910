@@ -2,8 +2,6 @@
 
 ### A budding Java developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1262278910&label=Profile views&color=0e75b6&style=flat" alt="1262278910" /> </p>
-
 - 🌱 I'm currently learning **Java and Vue**
 
 <h3 align="left">Connect with me:</h3>
